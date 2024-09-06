@@ -1,0 +1,19 @@
+body{
+    background-color: darkcyan;
+    margin: 50px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: brown;
+}
+
+span{
+    color: aliceblue;
+}
+
+img{
+    width: 550px;
+    height: 480px;
+}
